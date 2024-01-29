@@ -18,3 +18,7 @@ mail: aat_work@mail.ru
 **DA:** pandas, sns, matplotlib, scipy
 
 **ML:** FAISS
+
+## Краткое описание
+
+Проект по мэтчингу товаров, каждый товар в датасете  представлен как вектор фич. Была использована библиотека FAISS для эффективного similarity search.
